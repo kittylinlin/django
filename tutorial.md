@@ -1,6 +1,6 @@
 ## Install django
 ```
- pip install django
+pip install django
 ```
 
 ## Create a project
